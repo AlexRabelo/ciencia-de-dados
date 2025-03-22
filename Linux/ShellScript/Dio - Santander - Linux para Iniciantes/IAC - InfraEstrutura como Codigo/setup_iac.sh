@@ -22,7 +22,7 @@
 # - Sistema operacional Linux (Ubuntu recomendado).
 # - Permissões de administrador para executar o script.
 #
-# VERSÃO: 1.0
+# VERSÃO: 1.3
 #===================================================================================
 
 # Verifica se o script está sendo executado como root

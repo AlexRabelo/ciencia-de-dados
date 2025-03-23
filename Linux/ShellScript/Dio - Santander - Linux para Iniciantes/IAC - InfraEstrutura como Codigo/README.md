@@ -1,5 +1,5 @@
 
-## 🏆 **Sobre o Bootcamp Santander - Linux para Iniciantes**
+# 🏆 **Sobre o Bootcamp Santander - Linux para Iniciantes**
 
 O bootcamp **Santander - Linux para Iniciantes** é oferecido pela [DIO](https://www.dio.me) em parceria com o Santander. Ele tem como objetivo capacitar profissionais a dominar os principais comandos do Linux, criar scripts e configurar servidores no ambiente mais utilizado por desenvolvedores, DevOps e profissionais de cloud.
 
@@ -10,7 +10,8 @@ O bootcamp **Santander - Linux para Iniciantes** é oferecido pela [DIO](https:/
   - Criação de scripts automatizados.
   - Configuração de servidores Linux.
   - Projetos práticos e mentorias exclusivas com experts da DIO e Santander.
-
+- **Instrutor**:
+  - Denilson Bonatti [LinkedIn](https://www.linkedin.com/in/denilsonbonatti/)
 ---
 
 ## 🚀 **Como Executar o Script**
@@ -104,7 +105,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## 🧑‍💻 **Autor**
 
 Desenvolvido por [Alex Rabelo].  
-Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alex-rabelo/) ou envie um email para [alexrabelo@gmail.com].
+Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alexrabelo/) ou envie um email para [alexrabelo@gmail.com].
 Este projeto faz parte do bootcamp Santander - Linux para Iniciantes da DIO.
 
 

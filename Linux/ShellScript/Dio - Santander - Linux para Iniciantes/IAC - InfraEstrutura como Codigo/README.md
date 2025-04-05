@@ -14,6 +14,7 @@ O bootcamp **Santander - Linux para Iniciantes** é oferecido pela [DIO](https:/
   - Denilson Bonatti [LinkedIn](https://www.linkedin.com/in/denilsonbonatti/)
 ---
 
+### 🚀 **Desafio 01 - Criação de Usuários e Estrutura de Diretórios**
 ## 🚀 **Como Executar o Script**
 
 1. Clone este repositório:
@@ -21,7 +22,7 @@ O bootcamp **Santander - Linux para Iniciantes** é oferecido pela [DIO](https:/
 chmod +x setup_aic.sh
 
 3. Execute o script como administrador (root):
- ./setup_structure.sh
+ ./setup_aic.sh
 
 ---
 
@@ -79,26 +80,41 @@ Após executar o script, os seguintes cenários serão configurados:
 
 ---
 
+### 🚀 **Desafio 02 - Script de Provisionamento de um Servidor Web (Apache)**
+## 🚀 **Como Executar o Script**
+
+1. Clone este repositório:
+2. Dê permissão de execução ao script:
+chmod +x setup_aic_apache.sh
+
+3. Execute o script como administrador (root):
+ ./setup_aic_apache.sh
+
+---
+
+## ⚙️ **Funcionamento do Script**
+
+1. Atualiza o servidor,
+2. Instala o Apache2,
+3. Instala o unzip,
+4. Baixa uma aplicação web,
+5. Descompacta a aplicação,
+6. Implanta a aplicação no servidor Apache.
+7. Remove os arquivos do utilizados.
+
+---
+
 ## 📝 **Notas Importantes**
 
 - Certifique-se de executar o script como administrador (`root`) para evitar erros de permissão.
 - Este script foi projetado para ambientes Linux (Ubuntu recomendado).
-- Caso precise ajustar as configurações, edite o arquivo `setup_aic.sh`.
 
 ---
+
 
 ## 📌 **Contribuições**
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
----
-
-## 📅 **Histórico de Versões**
-
-- **1.0**: Configuração inicial do script com criação de diretórios, grupos e usuários.
-- **1.1**: Adição da configuração de senhas iniciais e troca obrigatória no login.
-- **1.2**: Melhorias na lógica de exclusão de estruturas antigas.
-- **1.3**: Uso do OpenSSL para criptografia das senhas.
 
 ---
 
